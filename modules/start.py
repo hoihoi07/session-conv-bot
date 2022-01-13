@@ -16,8 +16,8 @@ async def start_command(_: Client, m: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Source Code 😍",
-                        url="https://github.com/HKPROJECTS/session-conv-bot",
+                        "Source Code 😎",
+                        url="https://t.me/jetbots",
                     ),
                 ]
             ]
